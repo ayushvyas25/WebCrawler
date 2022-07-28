@@ -1,7 +1,8 @@
 # WebCrawler
 Web Crawler BFS of Ontario Tech University Web Page using Python BeautifulSoup and Gephi to visualize all the nodes.
 
-Analysis:
+Analysis:![website direected](https://user-images.githubusercontent.com/40570777/181395664-7fa55011-ca50-40e6-9bd2-ae3f695576a7.png)
+
 
 Nodes: 4127
 Edges: 62021
