@@ -3,6 +3,7 @@ Web Crawler BFS of Ontario Tech University Web Page using Python BeautifulSoup a
 
 Analysis:![website direected](https://user-images.githubusercontent.com/40570777/181395664-7fa55011-ca50-40e6-9bd2-ae3f695576a7.png)
 
+From this graph we can see that there are a lot of communities, 18 to be exact and the assorted color represent the different communities. I have used force atlas 2 layout to make the graph look more beautiful. The graph is directed as I had to crawl from one main node that is “ontariotechu.ca” and implement a BFS algorithm. After cleaning the data using check_link function I got around 4127 nodes and 62K edges. Wherein the highest number of degrees is 422 and policy page has the highest betweenness centrality around the network. The average path length is 2.42 which is the number required to move from one page to another page. The average clustering coefficient is 0.205. 
 
 Nodes: 4127
 Edges: 62021
